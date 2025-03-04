@@ -1,27 +1,23 @@
-### HOLA SOY LAURA ISABELLA OMAÑA BERRIO   
+### HOLA SOY LAURA ISABELLA OMAÑA BERRIO  
 <div align="center">
-<img src=""C:\Users\felip\Downloads\descarga.jpeg"
-" align="center" height="" width="600" />
+<img src="https://pin.it/1OBwAEG3D " align="center" style="width: 100%" />
 </div>  
   
 
-## <div align="center">My name is Laura, I am a developer, I am 20 years old, I study systems engineering, I have been studying for 2 and a half years and I like what I do.👩‍💻🐶</div>  
+### <div align="center">My name is Laura, I am a developer, I am 20 years old, I study systems engineering, I have been studying for 2 and a half years and I like what I do.👩‍💻🐶</div>  
   
 
-- 🔭 I'm currently working on Github while creating my profile so we can all get to know each other better  
+- 🔭 I'm currently working on Github while creating my profile so we can all get to know each other better
 (https://github.com/rishavanand/github-profilinator)🥰  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱I'm currently learning Visual Studio Code and Github.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me anything related to my career or my life  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-![]()  
+- 📫 How to contact me isabellaberrio123@gmail.com  
   
 
 <br/>  
@@ -35,14 +31,12 @@
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -96,14 +90,20 @@
 <a href="https://dev.to/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://www.youtube.com/user/@isabellaberrio1207" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/isabella berrio " target="_blank">
+<a href="https://instagram.com/by__lauraaa" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/isabella Berrio " target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/by__laura" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://linkedin.com/in/laura Omaña " target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/isita_2004" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -112,7 +112,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lioman49&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Liomana49&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -129,7 +129,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=liomana49&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Liomana49&&style=flat-square" align="center" />
 </div>  
   
 
