@@ -1,4 +1,4 @@
-### HOLA SOY LAURA ISABELLA OMAÑA BERRIO  
+###           LAURA ISABELLA OMAÑA BERRIO  
 <div align="center">
 <img src="https://pin.it/1OBwAEG3D " align="center" style="width: 100%" />
 </div>  
