@@ -1,7 +1,6 @@
-###           LAURA ISABELLA OMAÑA BERRIO 
-https://pin.it/1OBwAEG3D 
+### LAURA ISABELLA OMAÑA BERRIO  
 <div align="center">
-<img src="https://pin.it/1OBwAEG3D " align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/736x/18/44/a4/1844a4b03545d74d6ec85af018882878.jpg" align="center" style="width: 100%" />
 </div>  
   
 
