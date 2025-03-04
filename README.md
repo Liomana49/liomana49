@@ -1,5 +1,5 @@
 <div aling="center">
-  <h3>LAURA ISABELLA OMAÑA BERRIO</h3>h3
+  <h3><center>LAURA ISABELLA OMAÑA BERRIO</center></h3>
 </div> 
 
 <div align="center">
