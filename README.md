@@ -1,9 +1,6 @@
-<div aling="center"class="isa">
-  <h3><center>LAURA ISABELLA OMAÑA BERRIO</center></h3>
-</div> 
-.isa{
-aling="center"
-}
+<div aling="center">
+  <h3 aling="center">LAURA ISABELLA OMAÑA BERRIO</h3>
+</div>
 <div align="center">
 <img src="https://i.pinimg.com/736x/18/44/a4/1844a4b03545d74d6ec85af018882878.jpg" align="center" style="width: 90px" />
 </div>  
