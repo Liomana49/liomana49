@@ -1,4 +1,4 @@
-### LAURA ISABELLA OMAÑA BERRIO  
+<div aling="center">### LAURA ISABELLA OMAÑA BERRIO</div> 
 <div align="center">
 <img src="https://i.pinimg.com/736x/18/44/a4/1844a4b03545d74d6ec85af018882878.jpg" align="center" style="width: 90px" />
 </div>  
