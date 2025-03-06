@@ -112,9 +112,9 @@
 ## 🎨 *My personal interests:*<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
 <div align="center">
   <img src="https://i.pinimg.com/originals/1e/c8/e3/1ec8e3627b7c8109809a40e2c9a356e9.png" width="150" alt="Moda" title="Moda">
-  <img src="https://viajescolombiaviva.com/wp-content/uploads/2020/09/europa-768x529.jpg" width="100" alt="Viaje" title="Viaje">
-  <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_sm_2x/f_auto/primary/rudblljzhlpfqjxwxjmj" width="100" alt="deporte" title="Baloncesto">
-  <img src="https://cdn-cjpme.nitrocdn.com/RBveHUhgbLfgOUOOlhRIgWHSMTdPvbOz/assets/images/optimized/rev-d1bac96/mediactiu.com/wp-content/uploads/2021/04/Por-que-necesito-contratar-los-servicios-de-disen%CC%83o-grafico.jpg" width="80" alt="arte" title="Diseñadora">
+  <img src="https://viajescolombiaviva.com/wp-content/uploads/2020/09/europa-768x529.jpg" width="150" alt="Viaje" title="Viaje">
+  <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_sm_2x/f_auto/primary/rudblljzhlpfqjxwxjmj" width="150" alt="deporte" title="Baloncesto">
+  <img src="https://cdn-cjpme.nitrocdn.com/RBveHUhgbLfgOUOOlhRIgWHSMTdPvbOz/assets/images/optimized/rev-d1bac96/mediactiu.com/wp-content/uploads/2021/04/Por-que-necesito-contratar-los-servicios-de-disen%CC%83o-grafico.jpg" width="150" alt="arte" title="Diseñadora">
 </div>
 
 ## Github Stats  
