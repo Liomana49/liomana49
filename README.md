@@ -1,6 +1,6 @@
 ### <div align="center">LAURA ISABELA OMAÑA BERRIO</div> 
 <div align="center">
-<img src="https://www.computing.es/wp-content/uploads/2019/09/55228_43.jpg" align="center" style="width: 170px" />
+<img src="https://www.computing.es/wp-content/uploads/2019/09/55228_43.jpg" align="center" style="width: 300px" />
 </div>  
   
 
