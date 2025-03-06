@@ -112,9 +112,10 @@
 ## 🎨 *My personal interests:*<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
 <div align="center">
   <img src="https://i.pinimg.com/originals/1e/c8/e3/1ec8e3627b7c8109809a40e2c9a356e9.png" width="130" alt="Moda" title="Moda">
-  <img src="https://viajescolombiaviva.com/wp-content/uploads/2020/09/europa-768x529.jpg" width="150" alt="Viaje" title="Viaje">
+  <img src="https://viajescolombiaviva.com/wp-content/uploads/2020/09/europa-768x529.jpg" width="170" alt="Viaje" title="Viaje">
   <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_sm_2x/f_auto/primary/rudblljzhlpfqjxwxjmj" width="180" alt="deporte" title="Baloncesto">
-  <img src="https://cdn-cjpme.nitrocdn.com/RBveHUhgbLfgOUOOlhRIgWHSMTdPvbOz/assets/images/optimized/rev-d1bac96/mediactiu.com/wp-content/uploads/2021/04/Por-que-necesito-contratar-los-servicios-de-disen%CC%83o-grafico.jpg" width="150" alt="arte" title="Diseñadora">
+  <img src="https://cdn-cjpme.nitrocdn.com/RBveHUhgbLfgOUOOlhRIgWHSMTdPvbOz/assets/images/optimized/rev-d1bac96/mediactiu.com/wp-content/uploads/2021/04/Por-que-necesito-contratar-los-servicios-de-disen%CC%83o-grafico.jpg" width="170" alt="arte" title="Diseñadora">
+    <img src="https://es.digitaltrends.com/wp-content/uploads/2023/10/apps-ver-peliculas-celular.jpeg?resize=1000%2C600&p=1" width="150" alt="Viaje" title="Viaje">
 </div>
 
 ## Github Stats  
