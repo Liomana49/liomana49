@@ -126,18 +126,26 @@
 
 ### BLOG DE ISA   
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
+📖 **Mira mi blog interactivo aquí:**  
+[![Flipbook de ISA](https://via.placeholder.com/300x150?text=Ver+Flipbook)](https://heyzine.com/flip-book/65515a9e5e.html)  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+---
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Liomana49&&style=flat-square" align="center" />
+    <img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" />
 </div>  
+
+<br/>  
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Liomana49&&style=flat-square" align="center" />
+</div>  
+
 
 <br/>  
 
