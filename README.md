@@ -129,8 +129,7 @@
 Bienvenido a mi blog, donde comparto artículos, ideas y recursos sobre diversos temas.  
 Explora contenido interesante y mantente actualizado con mis publicaciones. 🚀  
 
-<!-- BLOG-POST-LIST:START -->  
-If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  
+<!-- BLOG-POST-LIST:START -->    
 <!-- BLOG-POST-LIST:END -->  
 
 📖 **Mira mi blog interactivo aquí:**  
