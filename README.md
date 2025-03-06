@@ -124,7 +124,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+### BLOG DE ISA   
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
@@ -138,7 +138,6 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Liomana49&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
