@@ -112,9 +112,9 @@
 ## 🎨 *My personal interests:*<br><span style="font-family: 'Adventure', sans-serif; font-weight: bold;">
 <div align="center">
   <img src="https://i.pinimg.com/originals/1e/c8/e3/1ec8e3627b7c8109809a40e2c9a356e9.png" width="150" alt="Moda" title="Moda">
-  <img src="https://wallpapers.com/images/hd/travel-aesthetic-phone-7tb42jvziupfejam.jpg" width="100" alt="Viaje" title="viaje">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwo8XoVB9Dv2oRtTnYQBMWAXI5rpMU6c5og&s" width="100" alt="libro" title="libros">
-  <img src="https://i.pinimg.com/564x/be/4b/ba/be4bba97027c177ea88b17468e6dfa71.jpg" width="80" alt="Estrella" title="Estrella">
+  <img src="https://viajescolombiaviva.com/wp-content/uploads/2020/09/europa-768x529.jpg" width="100" alt="Viaje" title="Viaje">
+  <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_sm_2x/f_auto/primary/rudblljzhlpfqjxwxjmj" width="100" alt="deporte" title="Baloncesto">
+  <img src="https://cdn-cjpme.nitrocdn.com/RBveHUhgbLfgOUOOlhRIgWHSMTdPvbOz/assets/images/optimized/rev-d1bac96/mediactiu.com/wp-content/uploads/2021/04/Por-que-necesito-contratar-los-servicios-de-disen%CC%83o-grafico.jpg" width="80" alt="arte" title="Diseñadora">
 </div>
 
 ## Github Stats  
