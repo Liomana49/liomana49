@@ -1,6 +1,6 @@
 ### <div align="center">LAURA ISABELA OMAÑA BERRIO</div> 
 <div align="center">
-<img src="https://i.pinimg.com/736x/18/44/a4/1844a4b03545d74d6ec85af018882878.jpg" align="center" style="width: 200px" />
+<img src="https://i.pinimg.com/736x/18/44/a4/1844a4b03545d74d6ec85af018882878.jpg" align="center" style="width: 150px" />
 </div>  
   
 
